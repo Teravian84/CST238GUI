@@ -1,12 +1,12 @@
 # CST238GUI
 
 Logo <br>
-Description
-Technologies 
-Screenshots/Mockup  
-Installation Instructions
-Contribution Guidelines
-Bugs and TODO List
-Contributor List
-Credits, Inspiration, Alternatives
-License
+Description <br>
+Technologies <br>
+Screenshots/Mockup <br> 
+Installation Instructions <br>
+Contribution Guidelines <br>
+Bugs and TODO List <br>
+Contributor List <br>
+Credits, Inspiration, Alternatives <br>
+License <br>
