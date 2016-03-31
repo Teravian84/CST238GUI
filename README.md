@@ -1,6 +1,6 @@
 # CST238GUI
 
-Logo
+Logo <br>
 Description
 Technologies 
 Screenshots/Mockup  
